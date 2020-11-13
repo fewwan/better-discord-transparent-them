@@ -1,1 +1,1 @@
-# discord_thems
+# better-discord-transparent-theme
